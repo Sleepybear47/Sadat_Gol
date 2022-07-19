@@ -5,9 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/style.css">
-    <title>Document</title>
+    <title>Sadat Gool</title>
 </head>
 <body>
-   
-</body>
-</html>
+   <div class="container">
+       <header>
+           <div class="header__imageCover">
+               
+           </div>
+       </header>
+   </div>

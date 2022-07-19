@@ -138,3 +138,11 @@ table {
 }
 /* ************************ */
 
+.header__imageCover{
+  background-image: url(./Image/imageCover.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 5rem;
+  position: relative;
+}
